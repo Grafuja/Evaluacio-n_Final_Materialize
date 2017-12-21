@@ -1,0 +1,55 @@
+.logo-nav{
+  max-height: 70px !important;
+}
+.nav-principal{
+  min-height: 4rem;
+}
+.sidebar a{
+  margin: 5px;
+}
+.conborde2{
+  border: 2px solid #778899;
+  border-radius: 10px;
+}
+.img-contenido{
+  margin-bottom: 15px;
+}
+.conmar{
+  margin-top: 5px;
+}
+.conmarb{
+  margin-bottom: 10px;
+}
+.conpadlr a{
+  margin-left: 10px;
+  margin-right: 10px
+}
+body{
+  background-image: url("/Users/jbenjamingf/Documents/Documentos Javier /Desarrollo Personal/Web Development/Materialize/Evaluación_Final_Materialize/img/SurChina-fondo.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.contenido{
+  padding: 10px;
+}
+.barra-superior{
+  min-height: 4rem;
+}
+
+.responsive-img{
+  border: 0.2rem solid #ff8f00;
+  border-radius: 5px;
+}
+
+.nav-principal{
+  margin-bottom: 0;
+}
+
+@media (max-width: 600px) {
+  .columna-grupos{
+    padding: 0 !important;
+  }
+  .nav-a a{
+    width: 30%;
+  }
+}
